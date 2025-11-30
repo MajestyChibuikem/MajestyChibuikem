@@ -6,10 +6,6 @@
 
 Full-stack developer specializing in **AI-powered analytics**, **developer tools**, and **mobile applications**. I build scalable, privacy-compliant systems with a focus on performance optimization and production readiness.
 
-### Core Strengths
-- **AI/ML Engineering**: Production pipelines with <100ms inference, privacy-preserving analytics, 128x performance optimizations
-- **System Architecture**: Microservices with Docker, RESTful APIs, database optimization for 20K+ records
-- **Cross-Platform Development**: React Native/Expo, TypeScript-first approach, modern UI/UX
 
 ## 🛠️ Tech Stack
 
